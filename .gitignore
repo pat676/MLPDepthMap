@@ -1,0 +1,16 @@
+### Python ###
+
+# Byte-compiled / optimized / DLL files
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtualenv
+.venv/
+venv/
+ENV/
+
+.DS_Store*
+
+__pycache__
